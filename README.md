@@ -9,6 +9,7 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 *Creado por Har neh
 *Incluye ejemplos en windows, linux y mac
+*Disponible para todas las edades
 # Editor.md
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
